@@ -1,0 +1,173 @@
+<resources>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="header_size">20sp</dimen>
+
+    <dimen name="text_size_8">13sp</dimen>
+    <dimen name="text_size_10">15sp</dimen>
+    <dimen name="text_size_11">16sp</dimen>
+    <dimen name="text_size_12">17sp</dimen>
+    <dimen name="text_size_13">18sp</dimen>
+    <dimen name="text_size_14">19sp</dimen>
+    <dimen name="text_size_15">20sp</dimen>
+
+    <dimen name="text_size_16">21sp</dimen>
+    <dimen name="text_size_17">22sp</dimen>
+
+    <dimen name="text_size_18">23sp</dimen>
+    <dimen name="text_size_19">24sp</dimen>
+    <dimen name="text_size_20">25sp</dimen>
+    <dimen name="text_size_21">26sp</dimen>
+    <dimen name="text_size_22">27sp</dimen>
+    <dimen name="text_size_23">28sp</dimen>
+    <dimen name="text_size_24">29sp</dimen>
+    <dimen name="text_size_26">30sp</dimen>
+    <dimen name="text_size_28">33sp</dimen>
+    <dimen name="text_size_30">35sp</dimen>
+    <dimen name="text_size_32">37sp</dimen>
+    <dimen name="text_size_34">39sp</dimen>
+    <dimen name="text_size_36">40sp</dimen>
+    <dimen name="text_size_38">43sp</dimen>
+    <dimen name="text_size_40">45sp</dimen>
+    <dimen name="text_size_42">47sp</dimen>
+    <dimen name="text_size_44">49sp</dimen>
+    <dimen name="text_size_46">51sp</dimen>
+    <dimen name="text_size_48">53sp</dimen>
+
+    <dimen name="text_size_social">15sp</dimen>
+
+    <dimen name="margin_0.5">1dp</dimen>
+    <dimen name="margin_1">5dp</dimen>
+    <dimen name="margin_2">7dp</dimen>
+    <dimen name="margin_3">8dp</dimen>
+    <dimen name="margin_4">9dp</dimen>
+    <dimen name="margin_5">10dp</dimen>
+    <dimen name="margin_6">11dp</dimen>
+    <dimen name="margin_8">13dp</dimen>
+    <dimen name="margin_10">15dp</dimen>
+    <dimen name="margin_11">16dp</dimen>
+    <dimen name="margin_12">17dp</dimen>
+    <dimen name="margin_14">19dp</dimen>
+    <dimen name="margin_15">20dp</dimen>
+    <dimen name="margin_16">21dp</dimen>
+    <dimen name="margin_17">22dp</dimen>
+    <dimen name="margin_18">23dp</dimen>
+    <dimen name="margin_20">25dp</dimen>
+    <dimen name="margin_21">26dp</dimen>
+    <dimen name="margin_22">27dp</dimen>
+    <dimen name="margin_23">28dp</dimen>
+    <dimen name="margin_24">29dp</dimen>
+    <dimen name="margin_25">30dp</dimen>
+    <dimen name="margin_26">31dp</dimen>
+    <dimen name="margin_27">32dp</dimen>
+    <dimen name="margin_28">33dp</dimen>
+    <dimen name="margin_29">34dp</dimen>
+    <dimen name="margin_30">35dp</dimen>
+    <dimen name="margin_31">36dp</dimen>
+    <dimen name="margin_32">37dp</dimen>
+    <dimen name="margin_33">38dp</dimen>
+    <dimen name="margin_34">39dp</dimen>
+    <dimen name="margin_35">55dp</dimen>
+    <dimen name="margin_36">41dp</dimen>
+    <dimen name="margin_37">42dp</dimen>
+    <dimen name="margin_38">43dp</dimen>
+    <dimen name="margin_39">44dp</dimen>
+    <dimen name="margin_40">45dp</dimen>
+    <dimen name="margin_41">46dp</dimen>
+    <dimen name="margin_42">47dp</dimen>
+    <dimen name="margin_43">48dp</dimen>
+    <dimen name="margin_44">49dp</dimen>
+    <dimen name="margin_45">50dp</dimen>
+    <dimen name="margin_46">51dp</dimen>
+    <dimen name="margin_47">52dp</dimen>
+    <dimen name="margin_48">53dp</dimen>
+    <dimen name="margin_49">54dp</dimen>
+    <dimen name="margin_50">55dp</dimen>
+    <dimen name="margin_51">56dp</dimen>
+    <dimen name="margin_52">57dp</dimen>
+    <dimen name="margin_53">58dp</dimen>
+    <dimen name="margin_54">59dp</dimen>
+    <dimen name="margin_55">60dp</dimen>
+    <dimen name="margin_56">61dp</dimen>
+    <dimen name="margin_57">62dp</dimen>
+    <dimen name="margin_58">63dp</dimen>
+    <dimen name="margin_59">64dp</dimen>
+    <dimen name="margin_60">65dp</dimen>
+    <dimen name="margin_61">66dp</dimen>
+    <dimen name="margin_62">67dp</dimen>
+    <dimen name="margin_70">75dp</dimen>
+    <dimen name="margin_80">85dp</dimen>
+    <dimen name="margin_81">86dp</dimen>
+    <dimen name="margin_800">80dp</dimen>
+    <dimen name="margin_7">7dp</dimen>
+    <dimen name="margin_414">419dp</dimen>
+    <dimen name="margin_100">105dp</dimen>
+    <dimen name="margin_110">115dp</dimen>
+
+    <dimen name="margin_content_4">5dp</dimen>
+    <dimen name="margin_corner_radius_2">4dp</dimen>
+    <dimen name="margin_edit_35">20dp</dimen>
+    <dimen name="margin_arrow_size">10dp</dimen>
+
+
+    <dimen name="margin_290">290dp</dimen>
+    <dimen name="margin_335">335dp</dimen>
+
+    <dimen name="margin_dashboard">15dp</dimen>
+    <dimen name="margin_dashoboard_40">40dp</dimen>
+    <dimen name="navigation_drawer_width">240dp</dimen>
+    <dimen name="top_bar_height">60dp</dimen>
+    <item name="float_tab" format="float" type="dimen">16</item>
+
+    <dimen name="vertical_spacing_10">10dp</dimen>
+    <dimen name="horizontal_spacing_25">25dp</dimen>
+
+    <dimen name="grid_height_83">100dp</dimen>
+    <dimen name="duration_width_163">168dp</dimen>
+    <dimen name="width_100">105dp</dimen>
+    <dimen name="calculate_button_width_130">135dp</dimen>
+    <dimen name="layout_height_65">70dp</dimen>
+    <dimen name="width_130">135dp</dimen>
+    <dimen name="height_2">7dp</dimen>
+    <dimen name="height_3">8dp</dimen>
+    <dimen name="height_28">33dp</dimen>
+    <dimen name="height_414">414dp</dimen>
+
+    <dimen name="margin_neg_8">-19dp</dimen>
+    <dimen name="margin_300">410dp</dimen>
+    <dimen name="margin_140">160dp</dimen>
+    <dimen name="margin__category">150dp</dimen>
+
+    <dimen name="fast_recyler_view_height">30dp</dimen>
+    <dimen name="fast_recyler_view_width">26dp</dimen>
+    <dimen name="daily_transaction_height">60dp</dimen>
+
+
+    <dimen name="indicator_height">6dp</dimen>
+
+    <dimen name="width_of_border">2dp</dimen>
+
+    <dimen name="txt_add_another_account">12dp</dimen>
+
+    <dimen name="elevation_card">1dp</dimen>
+
+    <dimen name="text_14">14sp</dimen>
+
+    <dimen name="neg_mar">-20dp</dimen>
+
+    <dimen name="mandate_mar">40dp</dimen>
+
+    <dimen name="margin_mandate_bottom">16dp</dimen>
+
+    <dimen name="percentage_circle">80dp</dimen>
+    <dimen name="margin_9">9dp</dimen>
+
+    <integer name="graph_point_size">2</integer>
+
+    <integer name="graph_text_size">20</integer>
+
+    <integer name="horizontal_bar">15</integer>
+    <dimen name="circle_cal_text_height">40dp</dimen>
+    <dimen name="create_mandate_popup_height">150dp</dimen>
+</resources>
